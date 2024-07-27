@@ -12,5 +12,5 @@
 
 # Soluções Parte 2:
 ## 1. [Verificação de Estoque de Produtos](Desafio4.java)
-## 2. []()
-## 3. []()
+## 2. [Análise de Transações Financeiras](Desafio5.java)
+## 3. [](Desafio6.java)
